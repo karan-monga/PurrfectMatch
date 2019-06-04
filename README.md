@@ -1,5 +1,5 @@
 ***PurrfectMatch***
 
-Landing page for a cat adoption app
+Landing page for a cat adoption app using HTML5, CSS and Bootstrap
 
-![](vbv)
+![](https://github.com/karan-monga/PurrfectMatch/blob/master/pmatchimg.PNG)
